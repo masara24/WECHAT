@@ -1,4 +1,4 @@
-# template
+# XCX
 This folder is for quick set-up various project.
 
 # license 
@@ -36,5 +36,5 @@ ClientAliveCountMax 10800
 5. RPC 35 error
 
 # contact
-fanqiang320@gmail.com
+Copyright © 2021 <myan.ltd>
 
